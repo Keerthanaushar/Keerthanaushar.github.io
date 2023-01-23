@@ -57,7 +57,7 @@ span{
 }
 
 .bg-image {
-  background-image: url("images/kee.jfif");
+  background-image: url("kee.jfif");
   filter: blur(8px);
   -webkit-filter: blur(8px);
   height: 90%;
